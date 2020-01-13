@@ -1,0 +1,73 @@
+.table{
+    justify-content: center;
+    margin: 20px auto 0;
+}
+.table .product-info{
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 20px;
+    background: #FFF;
+    border-radius: 10px;
+    border: 2px solid #DDD;
+}
+
+.table .table .product-info h1{
+    font-size: 32px;
+}
+
+.table .product-info p{
+    color: rgb(22, 22, 17);
+    line-height: 24px;
+    margin-top: 5px;
+}   
+.table .buttons{
+    margin: 20px auto 0;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.table .buttons a{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFF;
+    background: #da552f;
+    border-radius: 5px;
+    border: 0;
+    text-decoration: none;
+}
+
+.table .buttons a:hover{
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+/* .table .buttons button{
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #da552f;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 30px;   
+    background: #fff;
+    border: 2px solid #da552f;
+    text-decoration: none;
+}
+
+.table .buttons button:hover{
+    transition: all 0.2s;
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 30px;   
+    background: #da552f;
+    border: 2px solid #fff;
+} */
